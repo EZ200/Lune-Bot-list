@@ -2,7 +2,7 @@
 > YopBot est un robot capable de gérer n’importe quel serveur "botlist" fonctionnant avec la librairie DiscordJS.  
 > À part cela, il a été créé par mes soins. 
 >
-> **⚠️ | Pour toutes les personnes souhaitant faire de mon robot un bot public, il va falloir le faire vous-mêmes car YopBot est adapté uniquement pour __un seul serveur__.**
+> **⚠️ | Pour toutes les personnes souhaitant faire de mon robot un bot public, il va falloir le faire vous-mêmes car Lune・Bot list est adapté uniquement pour __un seul serveur__.**
 # Pré-requis :
 > • Posséder le logiciel [NodeJS](https://nodejs.org) installé sur votre ordinateur.  
 > • Posséder un logiciel d’éditeurs de scripts ([Visual Studio Code](https://code.visualstudio.com/), [IntelliJ IDEA](https://www.jetbrains.com/idea), ...)
@@ -17,4 +17,4 @@
 > • Ensuite, je voudrais remercier [ValRedstone](https://github.com/ValRedstone) qui m’as aidé à progresser en JavaScript (c’est la première fois que je code en JS 😄)
 # Support :
 > • Pour me contacter, vous pouvez ouvrir une issue en cliquant [ici](https://github.com/Nonolanlan1007/Yop-Bot/issues/new)
-> • Vous pouvez aussi venir sur le serveur support de YopBot : https://discord.gg/3dQeTg9Vz3 !
+> • Vous pouvez aussi venir sur le serveur support de Lune・Bot list: [ici] (https://discord.gg/SrNqWApncE) !
